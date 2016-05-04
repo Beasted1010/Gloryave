@@ -1,0 +1,575 @@
+# depslib dependency file v1.0
+1450394885 source:c:\users\fuzzy\documents\fuzzy's code\fuzzy's code\project final\game test1\src\enemy1.cpp
+	"Enemy1.h"
+	<iostream>
+	<ctime>
+	<cstdlib>
+
+1450394885 c:\users\fuzzy\documents\fuzzy's code\fuzzy's code\project final\game test1\include\enemy1.h
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<string>
+
+1451422444 source:c:\users\fuzzy\documents\fuzzy's code\fuzzy's code\project final\game test1\src\hero.cpp
+	"Hero.h"
+	<iostream>
+	<ctime>
+	<cstdlib>
+
+1451422484 c:\users\fuzzy\documents\fuzzy's code\fuzzy's code\project final\game test1\include\hero.h
+	<iostream>
+	<ctime>
+	<cstdlib>
+
+1451424614 source:c:\users\fuzzy\documents\fuzzy's code\fuzzy's code\project final\game test1\main.cpp
+	<iostream>
+	"Survival.h"
+	"Options.h"
+	"About.h"
+	"ToDo.h"
+
+1451424033 source:c:\users\fuzzy\documents\fuzzy's code\fuzzy's code\project final\game test1\src\survival.cpp
+	"Survival.h"
+	"Hero.h"
+	"Enemy1.h"
+	"Attack.h"
+	"pickUp.h"
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<vector>
+	<string>
+
+1450398754 c:\users\fuzzy\documents\fuzzy's code\fuzzy's code\project final\game test1\include\survival.h
+
+1450475244 source:c:\users\fuzzy\documents\fuzzy's code\fuzzy's code\project final\game test1\src\displayattacks.cpp
+	"displayAttacks.h"
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<vector>
+	<string>
+
+1450475245 c:\users\fuzzy\documents\fuzzy's code\fuzzy's code\project final\game test1\include\displayattacks.h
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<vector>
+	<string>
+
+1450477044 source:c:\users\fuzzy\documents\fuzzy's code\fuzzy's code\project final\game test1\src\attack.cpp
+	"Attack.h"
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<vector>
+	<string>
+
+1450476881 c:\users\fuzzy\documents\fuzzy's code\fuzzy's code\project final\game test1\include\attack.h
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<vector>
+	<string>
+
+1450485695 source:c:\users\fuzzy\documents\fuzzy's code\fuzzy's code\project final\game test1\src\weapons.cpp
+	"Weapons.h"
+
+1450485784 c:\users\fuzzy\documents\fuzzy's code\fuzzy's code\project final\game test1\include\weapons.h
+	<string>
+
+1450492141 source:c:\users\fuzzy\documents\fuzzy's code\fuzzy's code\project final\game test1\src\about.cpp
+	"About.h"
+	<iostream>
+
+1450490546 c:\users\fuzzy\documents\fuzzy's code\fuzzy's code\project final\game test1\include\about.h
+
+1450491539 source:c:\users\fuzzy\documents\fuzzy's code\fuzzy's code\project final\game test1\src\options.cpp
+	"Options.h"
+	<iostream>
+
+1450490413 c:\users\fuzzy\documents\fuzzy's code\fuzzy's code\project final\game test1\include\options.h
+
+1451422921 c:\users\fuzzy\documents\fuzzy's code\fuzzy's code\project final\game test1\include\pickup.h
+
+1451424023 source:c:\users\fuzzy\documents\fuzzy's code\fuzzy's code\project final\game test1\src\pickup.cpp
+	"pickUp.h"
+	"Hero.h"
+	"Survival.h"
+
+1451424159 c:\users\fuzzy\documents\fuzzy's code\fuzzy's code\project final\game test1\include\todo.h
+
+1462343909 source:c:\users\fuzzy\documents\fuzzy's code\fuzzy's code\conjestion\far along game, dont delete\main.cpp
+	<iostream>
+	"Survival.h"
+	"Options.h"
+	"About.h"
+	"ToDo.h"
+	"Font.h"
+	"SDL.h"
+	"AnimatedAdventure.h"
+	"Sound.h"
+	"Textures.h"
+	"Minion.h"
+
+1450402354 c:\users\fuzzy\documents\fuzzy's code\fuzzy's code\conjestion\far along game, dont delete\include\survival.h
+
+1450494013 c:\users\fuzzy\documents\fuzzy's code\fuzzy's code\conjestion\far along game, dont delete\include\options.h
+
+1450494146 c:\users\fuzzy\documents\fuzzy's code\fuzzy's code\conjestion\far along game, dont delete\include\about.h
+
+1451427759 c:\users\fuzzy\documents\fuzzy's code\fuzzy's code\conjestion\far along game, dont delete\include\todo.h
+
+1460875956 source:c:\users\fuzzy\documents\fuzzy's code\fuzzy's code\conjestion\far along game, dont delete\src\about.cpp
+	"About.h"
+	<iostream>
+
+1450480644 source:c:\users\fuzzy\documents\fuzzy's code\fuzzy's code\conjestion\far along game, dont delete\src\attack.cpp
+	"Attack.h"
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<vector>
+	<string>
+
+1450480481 c:\users\fuzzy\documents\fuzzy's code\fuzzy's code\conjestion\far along game, dont delete\include\attack.h
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<vector>
+	<string>
+
+1450398485 source:c:\users\fuzzy\documents\fuzzy's code\fuzzy's code\conjestion\far along game, dont delete\src\enemy1.cpp
+	"Enemy1.h"
+	<iostream>
+	<ctime>
+	<cstdlib>
+
+1450398485 c:\users\fuzzy\documents\fuzzy's code\fuzzy's code\conjestion\far along game, dont delete\include\enemy1.h
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<string>
+
+1451426044 source:c:\users\fuzzy\documents\fuzzy's code\fuzzy's code\conjestion\far along game, dont delete\src\hero.cpp
+	"Hero.h"
+	<iostream>
+	<ctime>
+	<cstdlib>
+
+1451426084 c:\users\fuzzy\documents\fuzzy's code\fuzzy's code\conjestion\far along game, dont delete\include\hero.h
+	<iostream>
+	<ctime>
+	<cstdlib>
+
+1450495139 source:c:\users\fuzzy\documents\fuzzy's code\fuzzy's code\conjestion\far along game, dont delete\src\options.cpp
+	"Options.h"
+	<iostream>
+
+1462342715 source:c:\users\fuzzy\documents\fuzzy's code\fuzzy's code\conjestion\far along game, dont delete\src\pickup.cpp
+	"pickUp.h"
+	"Hero.h"
+	"Survival.h"
+
+1451426521 c:\users\fuzzy\documents\fuzzy's code\fuzzy's code\conjestion\far along game, dont delete\include\pickup.h
+
+1462341664 source:c:\users\fuzzy\documents\fuzzy's code\fuzzy's code\conjestion\far along game, dont delete\src\survival.cpp
+	"Survival.h"
+	"Hero.h"
+	"Enemy.h"
+	"Attack.h"
+	"pickUp.h"
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<vector>
+	<string>
+
+1461033009 source:c:\users\fuzzy\documents\fuzzy's code\fuzzy's code\conjestion\far along game, dont delete\src\todo.cpp
+	"ToDo.h"
+	<iostream>
+
+1451768293 c:\users\fuzzy\downloads\sdl2-devel-2.0.4-mingw.tar\sdl2-devel-2.0.4-mingw\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768293 c:\users\fuzzy\downloads\sdl2-devel-2.0.4-mingw.tar\sdl2-devel-2.0.4-mingw\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768293 c:\users\fuzzy\downloads\sdl2-devel-2.0.4-mingw.tar\sdl2-devel-2.0.4-mingw\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<iconv.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1451768293 c:\users\fuzzy\downloads\sdl2-devel-2.0.4-mingw.tar\sdl2-devel-2.0.4-mingw\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1451768293 c:\users\fuzzy\downloads\sdl2-devel-2.0.4-mingw.tar\sdl2-devel-2.0.4-mingw\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1451768293 c:\users\fuzzy\downloads\sdl2-devel-2.0.4-mingw.tar\sdl2-devel-2.0.4-mingw\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\begin_code.h
+
+1451768293 c:\users\fuzzy\downloads\sdl2-devel-2.0.4-mingw.tar\sdl2-devel-2.0.4-mingw\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\close_code.h
+
+1451768293 c:\users\fuzzy\downloads\sdl2-devel-2.0.4-mingw.tar\sdl2-devel-2.0.4-mingw\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1451768293 c:\users\fuzzy\downloads\sdl2-devel-2.0.4-mingw.tar\sdl2-devel-2.0.4-mingw\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1451768293 c:\users\fuzzy\downloads\sdl2-devel-2.0.4-mingw.tar\sdl2-devel-2.0.4-mingw\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768293 c:\users\fuzzy\downloads\sdl2-devel-2.0.4-mingw.tar\sdl2-devel-2.0.4-mingw\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768293 c:\users\fuzzy\downloads\sdl2-devel-2.0.4-mingw.tar\sdl2-devel-2.0.4-mingw\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1451768293 c:\users\fuzzy\downloads\sdl2-devel-2.0.4-mingw.tar\sdl2-devel-2.0.4-mingw\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768293 c:\users\fuzzy\downloads\sdl2-devel-2.0.4-mingw.tar\sdl2-devel-2.0.4-mingw\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1451768293 c:\users\fuzzy\downloads\sdl2-devel-2.0.4-mingw.tar\sdl2-devel-2.0.4-mingw\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768293 c:\users\fuzzy\downloads\sdl2-devel-2.0.4-mingw.tar\sdl2-devel-2.0.4-mingw\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768293 c:\users\fuzzy\downloads\sdl2-devel-2.0.4-mingw.tar\sdl2-devel-2.0.4-mingw\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1451768293 c:\users\fuzzy\downloads\sdl2-devel-2.0.4-mingw.tar\sdl2-devel-2.0.4-mingw\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768293 c:\users\fuzzy\downloads\sdl2-devel-2.0.4-mingw.tar\sdl2-devel-2.0.4-mingw\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768293 c:\users\fuzzy\downloads\sdl2-devel-2.0.4-mingw.tar\sdl2-devel-2.0.4-mingw\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768293 c:\users\fuzzy\downloads\sdl2-devel-2.0.4-mingw.tar\sdl2-devel-2.0.4-mingw\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768293 c:\users\fuzzy\downloads\sdl2-devel-2.0.4-mingw.tar\sdl2-devel-2.0.4-mingw\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768293 c:\users\fuzzy\downloads\sdl2-devel-2.0.4-mingw.tar\sdl2-devel-2.0.4-mingw\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1451768293 c:\users\fuzzy\downloads\sdl2-devel-2.0.4-mingw.tar\sdl2-devel-2.0.4-mingw\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768293 c:\users\fuzzy\downloads\sdl2-devel-2.0.4-mingw.tar\sdl2-devel-2.0.4-mingw\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1451768293 c:\users\fuzzy\downloads\sdl2-devel-2.0.4-mingw.tar\sdl2-devel-2.0.4-mingw\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1451768293 c:\users\fuzzy\downloads\sdl2-devel-2.0.4-mingw.tar\sdl2-devel-2.0.4-mingw\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768293 c:\users\fuzzy\downloads\sdl2-devel-2.0.4-mingw.tar\sdl2-devel-2.0.4-mingw\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768293 c:\users\fuzzy\downloads\sdl2-devel-2.0.4-mingw.tar\sdl2-devel-2.0.4-mingw\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768293 c:\users\fuzzy\downloads\sdl2-devel-2.0.4-mingw.tar\sdl2-devel-2.0.4-mingw\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1451768293 c:\users\fuzzy\downloads\sdl2-devel-2.0.4-mingw.tar\sdl2-devel-2.0.4-mingw\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768293 c:\users\fuzzy\downloads\sdl2-devel-2.0.4-mingw.tar\sdl2-devel-2.0.4-mingw\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768293 c:\users\fuzzy\downloads\sdl2-devel-2.0.4-mingw.tar\sdl2-devel-2.0.4-mingw\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768293 c:\users\fuzzy\downloads\sdl2-devel-2.0.4-mingw.tar\sdl2-devel-2.0.4-mingw\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768293 c:\users\fuzzy\downloads\sdl2-devel-2.0.4-mingw.tar\sdl2-devel-2.0.4-mingw\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768293 c:\users\fuzzy\downloads\sdl2-devel-2.0.4-mingw.tar\sdl2-devel-2.0.4-mingw\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768293 c:\users\fuzzy\downloads\sdl2-devel-2.0.4-mingw.tar\sdl2-devel-2.0.4-mingw\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768293 c:\users\fuzzy\downloads\sdl2-devel-2.0.4-mingw.tar\sdl2-devel-2.0.4-mingw\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768293 c:\users\fuzzy\downloads\sdl2-devel-2.0.4-mingw.tar\sdl2-devel-2.0.4-mingw\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768293 c:\users\fuzzy\downloads\sdl2-devel-2.0.4-mingw.tar\sdl2-devel-2.0.4-mingw\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768293 c:\users\fuzzy\downloads\sdl2-devel-2.0.4-mingw.tar\sdl2-devel-2.0.4-mingw\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768293 c:\users\fuzzy\downloads\sdl2-devel-2.0.4-mingw.tar\sdl2-devel-2.0.4-mingw\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768293 c:\users\fuzzy\downloads\sdl2-devel-2.0.4-mingw.tar\sdl2-devel-2.0.4-mingw\sdl2-2.0.4\i686-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1454847161 c:\users\fuzzy\documents\fuzzy's code\fuzzy's code\conjestion\far along game, dont delete\include\extralayersdl.h
+	"CoreFoundation/CoreFoundation.h"
+	"SDL.h"
+	"SDL.h"
+	"stdio.h"
+	"SDL.h"
+
+1454828871 c:\users\fuzzy\documents\fuzzy's code\fuzzy's code\conjestion\far along game, dont delete\include\font.h
+	"SDL.h"
+
+1460866508 source:c:\users\fuzzy\documents\fuzzy's code\fuzzy's code\conjestion\far along game, dont delete\src\font.cpp
+	"Font.h"
+	"SDL.h"
+
+1462338004 source:c:\users\fuzzy\documents\fuzzy's code\fuzzy's code\conjestion\far along game, dont delete\src\animatedadventure.cpp
+	<iostream>
+	"Survival.h"
+	"Options.h"
+	"About.h"
+	"ToDo.h"
+	"Font.h"
+	"SDL.h"
+	"AnimatedAdventure.h"
+	"SDL.h"
+	"Textures.h"
+
+1461030514 c:\users\fuzzy\documents\fuzzy's code\fuzzy's code\conjestion\far along game, dont delete\include\animatedadventure.h
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<string>
+
+1461029280 source:c:\users\fuzzy\documents\fuzzy's code\fuzzy's code\conjestion\far along game, dont delete\src\sound.cpp
+	"SDL.h"
+	"Sound.h"
+	"cstdlib"
+	"stdlib.h"
+	"string.h"
+
+1461029029 c:\users\fuzzy\documents\fuzzy's code\fuzzy's code\conjestion\far along game, dont delete\include\sound.h
+	"SDL.h"
+
+1461032771 c:\users\fuzzy\documents\fuzzy's code\fuzzy's code\conjestion\far along game, dont delete\include\textures.h
+	"iostream"
+	"SDL.h"
+
+1462344532 source:c:\users\fuzzy\documents\fuzzy's code\fuzzy's code\conjestion\far along game, dont delete\src\minion.cpp
+	"Minion.h"
+
+1462344500 c:\users\fuzzy\documents\fuzzy's code\fuzzy's code\conjestion\far along game, dont delete\include\enemy.h
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<string>
+
+1462344485 source:c:\users\fuzzy\documents\fuzzy's code\fuzzy's code\conjestion\far along game, dont delete\src\enemy.cpp
+	"Enemy.h"
+	<iostream>
+	<ctime>
+	<cstdlib>
+
+1462344320 c:\users\fuzzy\documents\fuzzy's code\fuzzy's code\conjestion\far along game, dont delete\include\minion.h
+	"Enemy.h"
+
