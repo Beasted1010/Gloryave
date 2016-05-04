@@ -42,10 +42,11 @@
 		<Unit filename="include/About.h" />
 		<Unit filename="include/AnimatedAdventure.h" />
 		<Unit filename="include/Attack.h" />
-		<Unit filename="include/Enemy1.h" />
+		<Unit filename="include/Enemy.h" />
 		<Unit filename="include/ExtraLayerSDL.h" />
 		<Unit filename="include/Font.h" />
 		<Unit filename="include/Hero.h" />
+		<Unit filename="include/Minion.h" />
 		<Unit filename="include/Options.h" />
 		<Unit filename="include/Sound.h" />
 		<Unit filename="include/Survival.h" />
@@ -56,9 +57,10 @@
 		<Unit filename="src/About.cpp" />
 		<Unit filename="src/AnimatedAdventure.cpp" />
 		<Unit filename="src/Attack.cpp" />
-		<Unit filename="src/Enemy1.cpp" />
+		<Unit filename="src/Enemy.cpp" />
 		<Unit filename="src/Font.cpp" />
 		<Unit filename="src/Hero.cpp" />
+		<Unit filename="src/Minion.cpp" />
 		<Unit filename="src/Options.cpp" />
 		<Unit filename="src/Sound.cpp" />
 		<Unit filename="src/Survival.cpp" />
