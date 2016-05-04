@@ -21,7 +21,7 @@
 using namespace std;
 
 
-char* WINDOWTITLE = "Gloryave v. 0.30";
+char* WINDOWTITLE = "Gloryave v. 0.31";
 
 
 void handleTextureEvent(SDL_Texture* Tex, SDL_Renderer* rend, double stepw, double steph)
