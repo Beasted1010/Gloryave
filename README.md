@@ -1,3 +1,4 @@
 # Gloryave
 
-This is a self made game by the developer FuzzYdicE.
+One of my first personal project programs I have done.
+Far from complete.
